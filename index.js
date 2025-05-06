@@ -68,5 +68,5 @@ app.get("/getAllPosts/:authorEmail", async (req, res) => {
 });
 
 app.listen(8080, () => {
-  console.log("Server starting at 8080");
+  console.log("Server starting at 8080 testing");
 });
